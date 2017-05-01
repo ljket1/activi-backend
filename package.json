@@ -1,0 +1,27 @@
+{
+  "name": "activi-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljket1/activi-backend.git"
+  },
+  "author": "ljket1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljket1/activi-backend/issues"
+  },
+  "homepage": "https://github.com/ljket1/activi-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongodb": "^2.2.26"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
